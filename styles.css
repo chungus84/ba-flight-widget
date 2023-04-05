@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+
+* {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: rgb(240, 240, 240);
+  font-size: 35px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-color: rgb(251, 199, 127);
+}
