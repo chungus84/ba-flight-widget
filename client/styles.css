@@ -42,7 +42,7 @@ h1 {
 
 
 
-
+/* animation which adds the flip for the flipper board. */
 .flip {
   animation: 0.5s linear flipping;
 }
